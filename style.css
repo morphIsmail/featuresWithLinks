@@ -35,6 +35,9 @@ div.code {
   padding: 25px 10px;
   margin-bottom: 20px;
   position: relative;
+  width: 100%;
+  white-space: normal;
+  word-wrap: break-word;
 }
 div.code::after {
   content: 'HTML';
