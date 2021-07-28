@@ -2,50 +2,50 @@
 
 ##### СМС для 89085139244
 
-> &lt;a href="sms:89085139244"&gt;Text&lt;/a&gt;
+`<a href="sms:89085139244">Text</a>`
 
 ---
 
 ##### СМС для 89085139244 с текстом "Привет"
 
-> &lt;a href="sms:89085139244?body=Привет"&gt;Text&lt;/a&gt;
+`<a href="sms:89085139244?body=Привет">Text</a>`
 
 ---
 
 ##### СМС для 89085139244 и +7900 с текстом "Привет"
 
-> &lt;a href="sms:89085139244,+7900?body=Привет"&gt;Text&lt;/a&gt;
+`<a href="ms:89085139244,+7900?body=Привет">Text</a>`
 
 ---
 
 ##### Позвонить по номеру +7 (908) 513-92-44
 
-> &lt;a href="tel:+79085139244"&gt;Text&lt;/a&gt;
+`<a href="tel:+79085139244">Text</a>`
 
 ---
 
-##### Написать на почту
+##### Написать на почту `ismail_2016@mail.ru`
 
-> &lt;a href="mailto:ismail_2016@mail.ru"&gt;Text&lt;/a&gt;
+`<a href="mailto:ismail_2016@mail.ru">Text</a>`
 
 ---
 
 ##### Написать в WhatsApp
 
-> &lt;a href="https://wa.me/79085238245/?text=Привет!%20Как%20дела"&gt;Text&lt;/a&gt;
+`<a href="https://wa.me/79085238245/?text=Привет!%20Как%20дела">Text</a>`
 
 ---
 
 ##### Написать в Telegram
 
-> &lt;a href="https://t.me/morph1995"&gt;Text&lt;/a&gt;
+`<a href="https://t.me/morph1995">Text</a>`
 
 ---
 
 ### Автору на кофе
 
 Сбер VISA: 4274 3200 3233 1582  
-<a target="_blank" href="https://yasobe.ru/na/itdoctor">Yoomoney</a>
+[Yoomoney](https://yasobe.ru/na/itdoctor)
 
 ### Контакты
 
