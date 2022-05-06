@@ -42,15 +42,4 @@
 
 ---
 
-### Автору на кофе
-
-Сбер VISA: 4274 3200 3233 1582  
-[Yoomoney](https://yasobe.ru/na/itdoctor)
-
-### Контакты
-
-[YouTube](https://www.youtube.com/c/ITDoctor)  
-[Telegram](https://t.me/itdoctorstudio)  
-[GitHub](https://github.com/morphIsmail)  
-[VK](https://vk.com/itdoctorstudio)  
-[Instagram](https://instagram.com/ismail_asanovich)
+[![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
